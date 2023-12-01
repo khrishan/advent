@@ -5,3 +5,7 @@
 .local/
 .cache/
 .vscode/
+*/venv/
+2023/venv
+2023/input/test.txt
+*/input/*test.txt
